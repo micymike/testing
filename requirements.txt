@@ -1,5 +1,5 @@
 flask
 google-generativeai
-dotenv
-logging
+python-dotenv
+
 Gunicorn
